@@ -27,8 +27,7 @@ Provide instructions on how to install your project. Include any dependencies an
 ![mainpage+console](./assets/scheduler2.png)
 
 # Links to browser/github
-[github]()
-[live]()
+[github](https://github.com/bybymaxy/MyScheduler)
+[live](https://bybymaxy.github.io/MyScheduler/)
 
 
-```bash
